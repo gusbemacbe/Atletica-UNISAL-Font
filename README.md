@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="title.png" alt="Title" width="400px">
+<img src="title.png" alt="Title">
 </p>
 
 #### Why derived of Matthew Welch?
@@ -31,11 +31,11 @@ This font is still beta and see the plans in the end.
 <img src="preview.png" alt="Title">
 
 ## Plans to work
-[	] Advanced maths
-[	] Archaic Greek
-[	] Arabic
-[	] Armenian
-[	] Farsi
-[	] Japanese
-[	] Chinese
-[	] Mingrelian and Svan glyphs
+- [ ] Advanced maths
+- [ ] Archaic Greek
+- [ ] Arabic
+- [ ] Armenian
+- [ ] Farsi
+- [ ] Japanese
+- [ ] Chinese
+- [ ] Mingrelian and Svan glyphs
