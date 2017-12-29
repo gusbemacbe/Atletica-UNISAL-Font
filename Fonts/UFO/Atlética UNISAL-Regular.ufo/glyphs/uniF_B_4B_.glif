@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB4B" format="1">
+  <advance width="475"/>
+  <unicode hex="FB4B"/>
+  <outline>
+    <component base="uni05D5"/>
+    <component base="uni05B9" xOffset="-149" yOffset="131"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:53:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

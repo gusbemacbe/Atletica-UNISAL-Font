@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04AD" format="1">
+  <advance width="1320"/>
+  <unicode hex="04AD"/>
+  <outline>
+    <contour>
+      <point x="937" y="280" type="line"/>
+      <point x="937" y="-233" type="line"/>
+      <point x="1075" y="-233" type="line"/>
+      <point x="1212" y="0" type="line"/>
+      <point x="1212" y="280" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 10:03:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FC0.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="tilde"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 02:38:30 +0000</string>
+    </dict>
+  </lib>
+</glyph>

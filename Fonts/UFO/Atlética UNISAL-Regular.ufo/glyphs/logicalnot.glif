@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="1030"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="930" y="788" type="line"/>
+      <point x="930" y="1007" type="line"/>
+      <point x="930" y="1008" type="line"/>
+      <point x="930" y="1008" type="line"/>
+      <point x="101" y="1008" type="line"/>
+      <point x="100" y="1008" type="line"/>
+      <point x="100" y="1007" type="line"/>
+      <point x="100" y="788" type="line"/>
+      <point x="100" y="788" type="line"/>
+      <point x="101" y="788" type="line"/>
+      <point x="711" y="788" type="line"/>
+      <point x="710" y="788" type="line"/>
+      <point x="710" y="530" type="line"/>
+      <point x="710" y="529" type="line"/>
+      <point x="711" y="529" type="line"/>
+      <point x="930" y="529" type="line"/>
+      <point x="930" y="529" type="line"/>
+      <point x="930" y="530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 05:08:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

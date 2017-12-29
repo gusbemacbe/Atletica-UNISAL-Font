@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf" format="1">
+  <advance width="680"/>
+  <outline>
+    <contour>
+      <point x="620" y="0" type="line"/>
+      <point x="620" y="280" type="line"/>
+      <point x="480" y="280" type="line"/>
+      <point x="480" y="1290" type="line"/>
+      <point x="200" y="1290" type="line"/>
+      <point x="60" y="1082" type="line"/>
+      <point x="60" y="870" type="line"/>
+      <point x="200" y="870" type="line"/>
+      <point x="200" y="280" type="line"/>
+      <point x="60" y="280" type="line"/>
+      <point x="60" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 02:45:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

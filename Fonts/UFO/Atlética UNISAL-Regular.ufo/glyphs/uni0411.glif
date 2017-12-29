@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0411" format="1">
+  <advance width="1218"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="527" y="507" type="line"/>
+      <point x="527" y="286" type="line"/>
+      <point x="799" y="286" type="line"/>
+      <point x="799" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="527" y="782" type="line"/>
+      <point x="860" y="783" type="line"/>
+      <point x="1118" y="593" type="line"/>
+      <point x="1118" y="231" type="line"/>
+      <point x="860" y="0" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="104" y="286" type="line"/>
+      <point x="246" y="286" type="line"/>
+      <point x="246" y="1120" type="line"/>
+      <point x="100" y="1120" type="line"/>
+      <point x="100" y="1406" type="line"/>
+      <point x="1117" y="1406" type="line"/>
+      <point x="1118" y="1406" type="line"/>
+      <point x="1118" y="939" type="line"/>
+      <point x="799" y="939" type="line"/>
+      <point x="799" y="1120" type="line"/>
+      <point x="527" y="1120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 07:31:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

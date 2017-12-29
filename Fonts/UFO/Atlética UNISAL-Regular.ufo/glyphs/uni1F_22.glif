@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F22" format="1">
+  <advance width="1320"/>
+  <unicode hex="1F22"/>
+  <outline>
+    <contour>
+      <point x="-440" y="1117" type="line"/>
+      <point x="-331" y="1117" type="line"/>
+      <point x="-331" y="1325" type="line"/>
+      <point x="-422" y="1401" type="line"/>
+      <point x="-537" y="1401" type="line"/>
+      <point x="-537" y="1275" type="line"/>
+      <point x="-441" y="1275" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="1119" type="line"/>
+      <point x="-83" y="1119" type="line"/>
+      <point x="-270" y="1303" type="line"/>
+      <point x="-180" y="1401" type="line"/>
+    </contour>
+    <component base="Eta"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:13:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

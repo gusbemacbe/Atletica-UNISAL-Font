@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F04" format="1">
+  <advance width="1733"/>
+  <unicode hex="1F04"/>
+  <outline>
+    <contour>
+      <point x="197" y="1128" type="line"/>
+      <point x="306" y="1128" type="line"/>
+      <point x="306" y="1336" type="line"/>
+      <point x="215" y="1412" type="line"/>
+      <point x="100" y="1412" type="line"/>
+      <point x="100" y="1286" type="line"/>
+      <point x="196" y="1286" type="line"/>
+    </contour>
+    <contour>
+      <point x="367" y="1126" type="line"/>
+      <point x="592" y="1408" type="line"/>
+      <point x="682" y="1310" type="line"/>
+      <point x="495" y="1126" type="line"/>
+    </contour>
+    <component base="Alpha" xOffset="413"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:07:01 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Alpha</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

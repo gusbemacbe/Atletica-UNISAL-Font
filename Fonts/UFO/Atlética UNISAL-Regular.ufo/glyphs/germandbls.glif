@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="1">
+  <advance width="1347"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="966" y="850" type="line"/>
+      <point x="966" y="1186" type="line"/>
+      <point x="558" y="1186" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="269" y="4" type="line"/>
+      <point x="100" y="4" type="line"/>
+      <point x="100" y="224" type="line"/>
+      <point x="269" y="224" type="line"/>
+      <point x="269" y="1182" type="line"/>
+      <point x="448" y="1396" type="line"/>
+      <point x="558" y="1396" type="line"/>
+      <point x="1113" y="1396" type="line"/>
+      <point x="1247" y="1248" type="line"/>
+      <point x="1247" y="835" type="line"/>
+      <point x="1113" y="696" type="line"/>
+      <point x="1247" y="559" type="line"/>
+      <point x="1247" y="151" type="line"/>
+      <point x="1113" y="3" type="line"/>
+      <point x="663" y="3" type="line"/>
+      <point x="663" y="222" type="line"/>
+      <point x="966" y="222" type="line"/>
+      <point x="966" y="551" type="line"/>
+      <point x="775" y="551" type="line"/>
+      <point x="775" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 07:06:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

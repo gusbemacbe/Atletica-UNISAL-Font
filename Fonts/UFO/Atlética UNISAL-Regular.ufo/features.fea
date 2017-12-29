@@ -1,0 +1,408 @@
+# automatic
+@Uppercase = [ A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA Adieresis uni01DE uni1EA0 Agrave uni1EA2 Amacron Aogonek Aring Atilde AE B uni1E04 uni0243 C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D uni0189 Eth Dcaron uni1E12 Dcroat uni1E0C uni1E0E E Eacute Ecaron uni0228 Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 Edieresis Edotaccent uni1EB8 Egrave uni1EBA Emacron Eogonek uni018E uni01A9 uni1EBC F G Gbreve Gcaron Gcircumflex uni0122 Gdotaccent H Hbar Hcircumflex uni1E24 I IJ Iacute uni01CF Icircumflex Idieresis uni1E2E Idotaccent uni1ECA Igrave uni1EC8 Imacron Iogonek uni0197 Itilde J Jcircumflex K uni0136 L uni01C7 Lacute Lcaron uni1E3C uni013B uni01C8 Lslash M uni1E3E N uni01CA Nacute Ncaron uni1E4A uni0145 uni1E44 uni1E46 Eng uni01CB Ntilde O Oacute uni01D1 Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 Odieresis uni022A uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut Omacron uni1E52 uni1E50 Oslash Oslashacute Otilde uni1E4C OE P Thorn Q R Racute Rcaron uni0156 uni024C S Sacute Scaron Scedilla Scircumflex uni0218 uni1E62 uni1E9E T Tbar Tcaron uni0162 uni1E70 uni021A uni1E6C U Uacute uni0244 Ubreve uni01D3 Ucircumflex Udieresis uni01D7 uni01D9 uni01DB uni01D5 uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis uni1EF4 Ygrave uni1EF6 uni1EF8 Z Zacute Zcaron Zdotaccent uni1E92 Cdotaccent.001 Iacute_J.loclNLD Ldot.loclCAT IJ.loclNLD uni0410 uni0411 uni0412 uni0413 uni0403 uni0490 uni0414 uni0415 uni0400 uni0401 uni0416 uni0417 uni0418 uni0419 uni040D uni041A uni040C uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni040E uni0424 uni0425 uni0427 uni0426 uni0428 uni0429 uni040F uni042C uni042A uni042B uni0409 uni040A uni0405 uni0404 uni042D uni0406 uni0407 uni0408 uni040B uni042E uni042F uni0402 uni0462 uni0472 uni0474 uni0492 uni0496 uni0498 uni049A uni049E uni04A2 uni0524 uni04A8 uni04AA uni04AC uni04AE uni04B0 uni04B2 uni04B4 uni04B6 uni04BA uni04BC uni04BE uni04C0 uni04C1 uni04D0 uni04D2 uni04D4 uni04D6 uni04D8 uni04DA uni04DC uni04DE uni04E0 uni04E2 uni04E4 uni04E6 uni04E8 uni04EA uni04EC uni04EE uni04F0 uni04F2 uni04F4 uni04F6 uni04F8 uni051C uni0414.loclBGR uni0416.loclBGR uni041A.loclBGR uni041B.loclBGR Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis uni0370 uni0372 uni0376 uni03D8 uni03DA uni03DC uni03DE uni03E0 uni03CF uni03F7 uni03FA uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB uni1FCC uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FDA uni1FDB uni1FD8 uni1FD9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1FEC uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB uni1FFC uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1F5F.001 Psi.ss01 uni10D0.case uni10D1.case uni10D2.case uni10D3.case uni10D4.case uni10D5.case uni10D6.case uni10D7.case uni10D8.case uni10D9.case uni10DA.case uni10DB.case uni10DC.case uni10DD.case uni10DE.case uni10DF.case uni10E0.case uni10E1.case uni10E2.case uni10E3.case uni10E4.case uni10E5.case uni10E6.case uni10E7.case uni10E8.case uni10E9.case uni10EA.case uni10EB.case uni10EC.case uni10ED.case uni10EE.case uni10EF.case uni10F0.case ];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem cyrl dflt;
+languagesystem hebr dflt;
+languagesystem latn NLD;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn CRT;
+languagesystem latn AZE;
+languagesystem cyrl SRB;
+languagesystem cyrl BGR;
+
+feature aalt {
+# automatic
+feature ccmp;
+feature locl;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature lnum;
+feature pnum;
+feature tnum;
+feature onum;
+feature case;
+feature salt;
+feature ss01;
+feature hwid;
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb uni0306 uni030C uni0302 uni0312 uni0308 uni0307 gravecomb hookabovecomb uni030B uni0304 uni030A tildecomb];
+	@CombiningNonTopAccents = [uni0327 dotbelowcomb uni0331 uni0328 uni031B uni0338 uni0337 uni0336 uni0335];
+	sub [i]' @CombiningTopAccents by [dotlessi];
+	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [dotlessi];
+	@Markscomb = [tonos uni1FBF uni1FBD uni1FFE uni1FDD uni1FCE uni1FDE uni1FCF uni1FDF uni1FED uni1FEE uni1FC1 uni1FEF uni1FFD uni1FC0 uni1FCD];
+	@MarkscombCase = [tonos.case uni1FBF.case uni1FBD.case uni1FFE.case uni1FDD.case uni1FCE.case uni1FDE.case uni1FCF.case uni1FDF.case uni1FED.case uni1FEE.case uni1FC1.case uni1FEF.case uni1FFD.case uni1FC0.case uni1FCD.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_Other_3 {
+	lookupflag 0;
+	sub acutecomb uni0304 by uni03010304;
+	sub gravecomb uni0304 by uni03000304;
+	sub uni0304 acutecomb by uni03040301;
+	sub uni0304 gravecomb by uni03040300;
+} ccmp_Other_3;
+
+lookup ccmp_Other_4 {
+	lookupflag 0;
+	sub acutecomb uni0304 by uni03010304;
+	sub gravecomb uni0304 by uni03000304;
+	sub uni0304 acutecomb by uni03040301;
+	sub uni0304 gravecomb by uni03040300;
+} ccmp_Other_4;
+
+lookup ccmp_latn_1 {
+	sub uni0268 by i uni0335;
+} ccmp_latn_1;
+
+lookup ccmp_latn_2 {
+	lookupflag 0;
+	sub uni0306 acutecomb by uni03060301;
+	sub uni0306 gravecomb by uni03060300;
+	sub uni0306 hookabovecomb by uni03060309;
+	sub uni0306 tildecomb by uni03060303;
+	sub uni0302 acutecomb by uni03020301;
+	sub uni0302 gravecomb by uni03020300;
+	sub uni0302 hookabovecomb by uni03020309;
+	sub uni0302 tildecomb by uni03020303;
+} ccmp_latn_2;
+
+lookup ccmp_latn_3 {
+	lookupflag 0;
+	sub uni0306 acutecomb by uni03060301;
+	sub uni0306 gravecomb by uni03060300;
+	sub uni0306 hookabovecomb by uni03060309;
+	sub uni0306 tildecomb by uni03060303;
+	sub uni0302 acutecomb by uni03020301;
+	sub uni0302 gravecomb by uni03020300;
+	sub uni0302 hookabovecomb by uni03020309;
+	sub uni0302 tildecomb by uni03020303;
+} ccmp_latn_3;
+
+script latn;
+} ccmp;
+
+feature locl {
+# automatic
+script latn;
+language NLD;
+sub iacute j by iacute_j.loclNLD;
+sub Iacute J by Iacute_J.loclNLD;
+sub IJ by IJ.loclNLD;
+language ROM;
+sub Scedilla by uni0218;
+sub scedilla by uni0219;
+sub uni0162 by uni021A;
+sub uni0163 by uni021B;
+language MOL;
+sub Scedilla by uni0218;
+sub scedilla by uni0219;
+sub uni0162 by uni021A;
+sub uni0163 by uni021B;
+language KAZ;
+sub i by i.loclTRK;
+language TAT;
+sub i by i.loclTRK;
+language TRK;
+sub i by i.loclTRK;
+sub dotlessi by dotlessi.loclTRK;
+language CRT;
+sub i by i.loclTRK;
+language AZE;
+sub i by i.loclTRK;
+
+script cyrl;
+language SRB;
+sub uni0431 by uni0431.loclSRB;
+sub uni0433 by uni0433.loclSRB;
+sub uni0434 by uni0434.loclSRB;
+sub uni043F by uni043F.loclSRB;
+sub uni0442 by uni0442.loclSRB;
+sub uni0448 by uni0448.loclSRB;
+language BGR;
+sub uni0414 by uni0414.loclBGR;
+sub uni0416 by uni0416.loclBGR;
+sub uni041A by uni041A.loclBGR;
+sub uni041B by uni041B.loclBGR;
+sub uni0432 by uni0432.loclBGR;
+sub uni0433 by uni0433.loclBGR;
+sub uni0434 by uni0434.loclBGR;
+sub uni0436 by uni0436.loclBGR;
+sub uni0437 by uni0437.loclBGR;
+sub uni0438 by uni0438.loclBGR;
+sub uni0439 by uni0439.loclBGR;
+sub uni043A by uni043A.loclBGR;
+sub uni043B by uni043B.loclBGR;
+sub uni043D by uni043D.loclBGR;
+sub uni043F by uni043F.loclBGR;
+sub uni0442 by uni0442.loclBGR;
+sub uni0447 by uni0447.loclBGR;
+sub uni0446 by uni0446.loclBGR;
+sub uni0448 by uni0448.loclBGR;
+sub uni0449 by uni0449.loclBGR;
+sub uni044C by uni044C.loclBGR;
+sub uni044E by uni044E.loclBGR;
+} locl;
+
+feature sups {
+# automatic
+sub one by uni00B9;
+sub two by uni00B2;
+sub three by uni00B3;
+} sups;
+
+feature numr {
+# automatic
+sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+} numr;
+
+feature dnom {
+# automatic
+sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+} dnom;
+
+feature frac {
+# automatic
+lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by uni2116;
+} ordn;
+
+feature lnum {
+# automatic
+sub zero.osf by zero.lf;
+sub one.osf by one.lf;
+sub two.osf by two.lf;
+sub three.osf by three.lf;
+sub four.osf by four.lf;
+sub five.osf by five.lf;
+sub six.osf by six.lf;
+sub seven.osf by seven.lf;
+sub eight.osf by eight.lf;
+sub nine.osf by nine.lf;
+} lnum;
+
+feature pnum {
+# automatic
+sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+sub zero.tosf by zero.osf;
+sub one.tosf by one.osf;
+sub two.tosf by two.osf;
+sub three.tosf by three.osf;
+sub four.tosf by four.osf;
+sub five.tosf by five.osf;
+sub six.tosf by six.osf;
+sub seven.tosf by seven.osf;
+sub eight.tosf by eight.osf;
+sub nine.tosf by nine.osf;
+} pnum;
+
+feature tnum {
+# automatic
+sub zero.lf by zero;
+sub one.lf by one;
+sub two.lf by two;
+sub three.lf by three;
+sub four.lf by four;
+sub five.lf by five;
+sub six.lf by six;
+sub seven.lf by seven;
+sub eight.lf by eight;
+sub nine.lf by nine;
+sub zero.osf by zero.tosf;
+sub one.osf by one.tosf;
+sub two.osf by two.tosf;
+sub three.osf by three.tosf;
+sub four.osf by four.tosf;
+sub five.osf by five.tosf;
+sub six.osf by six.tosf;
+sub seven.osf by seven.tosf;
+sub eight.osf by eight.tosf;
+sub nine.osf by nine.tosf;
+sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+} tnum;
+
+feature onum {
+# automatic
+sub zero by zero.tosf;
+sub one by one.tosf;
+sub two by two.tosf;
+sub three by three.tosf;
+sub four by four.tosf;
+sub five by five.tosf;
+sub six by six.tosf;
+sub seven by seven.tosf;
+sub eight by eight.tosf;
+sub nine by nine.tosf;
+sub zero.lf by zero.osf;
+sub one.lf by one.osf;
+sub two.lf by two.osf;
+sub three.lf by three.osf;
+sub four.lf by four.osf;
+sub five.lf by five.osf;
+sub six.lf by six.osf;
+sub seven.lf by seven.osf;
+sub eight.lf by eight.osf;
+sub nine.lf by nine.osf;
+} onum;
+
+feature case {
+# automatic
+sub tonos by tonos.case;
+sub uni1FBF by uni1FBF.case;
+sub uni1FBD by uni1FBD.case;
+sub uni1FFE by uni1FFE.case;
+sub uni1FDD by uni1FDD.case;
+sub uni1FCE by uni1FCE.case;
+sub uni1FDE by uni1FDE.case;
+sub uni1FCF by uni1FCF.case;
+sub uni1FDF by uni1FDF.case;
+sub uni1FED by uni1FED.case;
+sub uni1FEE by uni1FEE.case;
+sub uni1FC1 by uni1FC1.case;
+sub uni1FEF by uni1FEF.case;
+sub uni1FFD by uni1FFD.case;
+sub uni1FC0 by uni1FC0.case;
+sub uni1FCD by uni1FCD.case;
+sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+sub zero.osf by zero.lf;
+sub one.osf by one.lf;
+sub two.osf by two.lf;
+sub three.osf by three.lf;
+sub four.osf by four.lf;
+sub five.osf by five.lf;
+sub six.osf by six.lf;
+sub seven.osf by seven.lf;
+sub eight.osf by eight.lf;
+sub nine.osf by nine.lf;
+sub zero.tf by zero.lf;
+sub one.tf by one.lf;
+sub two.tf by two.lf;
+sub three.tf by three.lf;
+sub four.tf by four.lf;
+sub five.tf by five.lf;
+sub six.tf by six.lf;
+sub seven.tf by seven.lf;
+sub eight.tf by eight.lf;
+sub nine.tf by nine.lf;
+sub zero.tosf by zero.lf;
+sub one.tosf by one.lf;
+sub two.tosf by two.lf;
+sub three.tosf by three.lf;
+sub four.tosf by four.lf;
+sub five.tosf by five.lf;
+sub six.tosf by six.lf;
+sub seven.tosf by seven.lf;
+sub eight.tosf by eight.lf;
+sub nine.tosf by nine.lf;
+} case;
+
+feature liga {
+# automatic
+sub E T by E_T.liga;
+sub e t by e_t.liga;
+sub f i by fi;
+sub f l by fl;
+} liga;
+
+feature salt {
+# automatic
+sub Psi by Psi.ss01;
+sub psi by psi.ss01;
+sub asterisk by asterisk.ss01;
+} salt;
+
+feature ss01 {
+# automatic
+sub Psi by Psi.ss01;
+sub psi by psi.ss01;
+sub asterisk by asterisk.ss01;
+} ss01;
+
+feature hwid {
+# automatic
+sub arrowdown by uniFFEC;
+sub arrowleft by uniFFE9;
+sub arrowright by uniFFEB;
+sub arrowup by uniFFEA;
+} hwid;
+

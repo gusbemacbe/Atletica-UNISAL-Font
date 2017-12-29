@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="1357"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="779" y="559" type="line"/>
+      <point x="779" y="557" type="line"/>
+      <point x="779" y="557" type="line"/>
+      <point x="779" y="149" type="line"/>
+      <point x="596" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="250" type="line"/>
+      <point x="508" y="250" type="line"/>
+      <point x="508" y="550" type="line"/>
+      <point x="507" y="550" type="line"/>
+      <point x="507" y="559" type="line"/>
+      <point x="286" y="559" type="line"/>
+      <point x="286" y="828" type="line"/>
+      <point x="507" y="828" type="line"/>
+      <point x="507" y="1259" type="line"/>
+      <point x="641" y="1407" type="line"/>
+      <point x="1257" y="1407" type="line"/>
+      <point x="1257" y="1157" type="line"/>
+      <point x="779" y="1157" type="line"/>
+      <point x="779" y="828" type="line"/>
+      <point x="945" y="828" type="line"/>
+      <point x="945" y="559" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 05:28:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

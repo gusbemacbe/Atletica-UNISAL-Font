@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_extra2" format="1">
+  <advance width="756"/>
+  <outline>
+    <contour>
+      <point x="100" y="532" type="line"/>
+      <point x="328" y="-348" type="line"/>
+      <point x="672" y="680" type="line"/>
+      <point x="388" y="1700" type="line"/>
+      <point x="96" y="712" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-12 20:07:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

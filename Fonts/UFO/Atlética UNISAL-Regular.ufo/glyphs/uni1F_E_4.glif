@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FE4" format="1">
+  <advance width="1364"/>
+  <unicode hex="1FE4"/>
+  <outline>
+    <contour>
+      <point x="157" y="1122" type="line"/>
+      <point x="266" y="1122" type="line"/>
+      <point x="266" y="1330" type="line"/>
+      <point x="175" y="1406" type="line"/>
+      <point x="60" y="1406" type="line"/>
+      <point x="60" y="1280" type="line"/>
+      <point x="156" y="1280" type="line"/>
+    </contour>
+    <component base="rho" xOffset="224"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:22:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

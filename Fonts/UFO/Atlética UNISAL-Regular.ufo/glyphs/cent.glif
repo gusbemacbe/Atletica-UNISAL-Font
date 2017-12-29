@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="1040"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="391" y="247" type="line"/>
+      <point x="324" y="247" type="line"/>
+      <point x="100" y="471" type="line"/>
+      <point x="100" y="1168" type="line"/>
+      <point x="324" y="1392" type="line"/>
+      <point x="391" y="1392" type="line"/>
+      <point x="391" y="1646" type="line"/>
+      <point x="649" y="1646" type="line"/>
+      <point x="649" y="1392" type="line"/>
+      <point x="716" y="1392" type="line"/>
+      <point x="940" y="1168" type="line"/>
+      <point x="940" y="972" type="line"/>
+      <point x="660" y="972" type="line"/>
+      <point x="660" y="1112" type="line"/>
+      <point x="380" y="1112" type="line"/>
+      <point x="380" y="527" type="line"/>
+      <point x="660" y="527" type="line"/>
+      <point x="660" y="667" type="line"/>
+      <point x="940" y="667" type="line"/>
+      <point x="940" y="471" type="line"/>
+      <point x="716" y="247" type="line"/>
+      <point x="649" y="247" type="line"/>
+      <point x="649" y="0" type="line"/>
+      <point x="391" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 04:36:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

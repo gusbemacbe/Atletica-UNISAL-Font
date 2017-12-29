@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondieresistonos" format="1">
+  <advance width="1320"/>
+  <unicode hex="03B0"/>
+  <outline>
+    <contour>
+      <point x="721" y="2179" type="line"/>
+      <point x="677" y="1806" type="line"/>
+      <point x="539" y="1806" type="line"/>
+      <point x="486" y="2179" type="line"/>
+    </contour>
+    <component base="upsilon"/>
+    <component base="uni0308"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 11:09:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

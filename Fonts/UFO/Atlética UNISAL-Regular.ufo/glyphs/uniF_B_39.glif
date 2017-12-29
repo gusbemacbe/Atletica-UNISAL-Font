@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB39" format="1">
+  <advance width="781"/>
+  <unicode hex="FB39"/>
+  <outline>
+    <contour>
+      <point x="100" y="1159" type="line"/>
+      <point x="100" y="949" type="line"/>
+      <point x="310" y="949" type="line"/>
+      <point x="310" y="1159" type="line"/>
+    </contour>
+    <component base="uni05D9" xOffset="306"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:54:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

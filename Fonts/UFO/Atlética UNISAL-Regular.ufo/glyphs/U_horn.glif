@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn" format="1">
+  <advance width="1586"/>
+  <unicode hex="01AF"/>
+  <outline>
+    <contour>
+      <point x="1291" y="1400" type="line"/>
+      <point x="1219" y="1400" type="line"/>
+      <point x="1219" y="1230" type="line"/>
+      <point x="1377" y="1230" type="line"/>
+      <point x="1429" y="1400" type="line"/>
+      <point x="1486" y="1600" type="line"/>
+      <point x="1336" y="1600" type="line"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 01:08:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

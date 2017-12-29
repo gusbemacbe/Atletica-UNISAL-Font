@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeta" format="1">
+  <advance width="1180"/>
+  <unicode hex="03B6"/>
+  <outline>
+    <component base="Z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 10:21:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

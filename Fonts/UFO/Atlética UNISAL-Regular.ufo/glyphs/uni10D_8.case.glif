@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni10D8.case" format="1">
+  <advance width="1040"/>
+  <outline>
+    <contour>
+      <point x="100" y="280" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="380" y="280" type="line"/>
+      <point x="380" y="1120" type="line"/>
+      <point x="660" y="1120" type="line"/>
+      <point x="660" y="280" type="line"/>
+      <point x="658" y="0" type="line"/>
+      <point x="940" y="0" type="line"/>
+      <point x="940" y="280" type="line"/>
+      <point x="940" y="1176" type="line"/>
+      <point x="716" y="1400" type="line"/>
+      <point x="324" y="1400" type="line"/>
+      <point x="100" y="1176" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 09:02:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

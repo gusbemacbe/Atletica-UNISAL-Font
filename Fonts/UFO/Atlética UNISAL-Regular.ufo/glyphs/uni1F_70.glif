@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F70" format="1">
+  <advance width="1489"/>
+  <unicode hex="1F70"/>
+  <outline>
+    <contour>
+      <point x="415" y="1123" type="line"/>
+      <point x="287" y="1123" type="line"/>
+      <point x="100" y="1286" type="line"/>
+      <point x="190" y="1384" type="line"/>
+    </contour>
+    <component base="Alpha" xOffset="169"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:07:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

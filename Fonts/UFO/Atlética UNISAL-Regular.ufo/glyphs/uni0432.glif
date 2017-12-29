@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0432" format="1">
+  <advance width="1180"/>
+  <unicode hex="0432"/>
+  <outline>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 07:44:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

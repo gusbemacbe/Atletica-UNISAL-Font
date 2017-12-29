@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="1">
+  <advance width="480"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="240" y="1120" type="line"/>
+      <point x="100" y="840" type="line"/>
+      <point x="240" y="840" type="line"/>
+      <point x="380" y="1120" type="line"/>
+      <point x="380" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="1120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 04:18:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

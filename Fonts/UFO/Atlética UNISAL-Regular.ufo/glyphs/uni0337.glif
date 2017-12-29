@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0337" format="1">
+  <advance width="600"/>
+  <unicode hex="0337"/>
+  <outline>
+    <contour>
+      <point x="-441" y="-25" type="line"/>
+      <point x="549" y="1153" type="line"/>
+      <point x="782" y="1153" type="line"/>
+      <point x="-224" y="-31" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 00:24:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

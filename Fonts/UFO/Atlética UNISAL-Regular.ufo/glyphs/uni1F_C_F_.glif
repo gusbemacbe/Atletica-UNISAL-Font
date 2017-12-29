@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCF" format="1">
+  <advance width="600"/>
+  <unicode hex="1FCF"/>
+  <outline>
+    <contour>
+      <point x="-99" y="1123" type="line"/>
+      <point x="10" y="1123" type="line"/>
+      <point x="10" y="1331" type="line"/>
+      <point x="-81" y="1407" type="line"/>
+      <point x="-196" y="1407" type="line"/>
+      <point x="-196" y="1281" type="line"/>
+      <point x="-100" y="1281" type="line"/>
+    </contour>
+    <contour>
+      <point x="-35" y="1605" type="line"/>
+      <point x="-35" y="1569" type="line"/>
+      <point x="44" y="1569" type="line"/>
+      <point x="44" y="1694" type="line"/>
+      <point x="171" y="1694" type="line"/>
+      <point x="171" y="1559" type="line"/>
+      <point x="94" y="1474" type="line"/>
+      <point x="-85" y="1474" type="line"/>
+      <point x="-162" y="1559" type="line"/>
+      <point x="-162" y="1599" type="line"/>
+      <point x="-162" y="1601" type="line"/>
+      <point x="-242" y="1601" type="line"/>
+      <point x="-242" y="1476" type="line"/>
+      <point x="-368" y="1476" type="line"/>
+      <point x="-368" y="1604" type="line"/>
+      <point x="-291" y="1695" type="line"/>
+      <point x="-112" y="1695" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 09:39:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

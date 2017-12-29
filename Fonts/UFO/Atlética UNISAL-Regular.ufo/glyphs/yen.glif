@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="1320"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="240" y="1120" type="line"/>
+      <point x="520" y="700" type="line"/>
+      <point x="520" y="280" type="line"/>
+      <point x="380" y="280" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="940" y="0" type="line"/>
+      <point x="940" y="280" type="line"/>
+      <point x="800" y="280" type="line"/>
+      <point x="800" y="700" type="line"/>
+      <point x="1080" y="1120" type="line"/>
+      <point x="1220" y="1120" type="line"/>
+      <point x="1220" y="1400" type="line"/>
+      <point x="730" y="1400" type="line"/>
+      <point x="730" y="1120" type="line"/>
+      <point x="800" y="1120" type="line"/>
+      <point x="660" y="910" type="line"/>
+      <point x="520" y="1120" type="line"/>
+      <point x="590" y="1120" type="line"/>
+      <point x="590" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="1120" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="704" type="line"/>
+      <point x="377" y="485" type="line"/>
+      <point x="939" y="485" type="line"/>
+      <point x="939" y="704" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 04:54:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

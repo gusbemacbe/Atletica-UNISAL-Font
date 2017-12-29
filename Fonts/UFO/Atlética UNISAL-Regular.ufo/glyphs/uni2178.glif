@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2178" format="1">
+  <advance width="1860"/>
+  <unicode hex="2178"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="1180" y="0" type="line"/>
+      <point x="1180" y="280" type="line"/>
+      <point x="1060" y="280" type="line"/>
+      <point x="1200" y="490" type="line"/>
+      <point x="1340" y="280" type="line"/>
+      <point x="1220" y="280" type="line"/>
+      <point x="1220" y="0" type="line"/>
+      <point x="1760" y="0" type="line"/>
+      <point x="1760" y="280" type="line"/>
+      <point x="1620" y="280" type="line"/>
+      <point x="1340" y="700" type="line"/>
+      <point x="1620" y="1120" type="line"/>
+      <point x="1760" y="1120" type="line"/>
+      <point x="1760" y="1400" type="line"/>
+      <point x="1220" y="1400" type="line"/>
+      <point x="1220" y="1120" type="line"/>
+      <point x="1340" y="1120" type="line"/>
+      <point x="1200" y="910" type="line"/>
+      <point x="1060" y="1120" type="line"/>
+      <point x="1180" y="1120" type="line"/>
+      <point x="1180" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="1120" type="line"/>
+      <point x="240" y="1120" type="line"/>
+      <point x="240" y="280" type="line"/>
+      <point x="100" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="280" type="line"/>
+      <point x="520" y="1120" type="line"/>
+      <point x="780" y="1120" type="line"/>
+      <point x="1060" y="700" type="line"/>
+      <point x="780" y="280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 06:34:36 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>x</string>
+    </dict>
+  </lib>
+</glyph>

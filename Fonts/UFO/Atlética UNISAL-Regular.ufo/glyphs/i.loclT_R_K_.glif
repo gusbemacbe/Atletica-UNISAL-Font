@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.loclTRK" format="1">
+  <advance width="740"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="uni0307" xOffset="-123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 11:11:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

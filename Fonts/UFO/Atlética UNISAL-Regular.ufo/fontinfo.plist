@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1700</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>Copyright © 1998 by Matthew Welch. All Rights Reserved.</string>
+	<key>descender</key>
+	<integer>-348</integer>
+	<key>familyName</key>
+	<string>Atlética UNISAL</string>
+	<key>openTypeHeadCreated</key>
+	<string>2017/12/29 09:00:08</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1700</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-348</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Matthew Welch &amp; Gustavo Costa</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.squaregear.net/fonts/</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Atlética UNISAL</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1700</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-348</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string></string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1700</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>348</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>AtleticaUNISAL-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>3</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>

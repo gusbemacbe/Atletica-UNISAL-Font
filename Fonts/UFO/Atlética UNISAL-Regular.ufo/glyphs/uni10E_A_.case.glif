@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni10EA.case" format="1">
+  <advance width="1255"/>
+  <outline>
+    <contour>
+      <point x="100" y="275" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="881" y="0" type="line"/>
+      <point x="1155" y="275" type="line"/>
+      <point x="1155" y="598" type="line"/>
+      <point x="1035" y="705" type="line"/>
+      <point x="1155" y="814" type="line"/>
+      <point x="1155" y="1079" type="line"/>
+      <point x="1152" y="1079" type="line"/>
+      <point x="935" y="1402" type="line"/>
+      <point x="650" y="1402" type="line"/>
+      <point x="883" y="1079" type="line"/>
+      <point x="880" y="1079" type="line"/>
+      <point x="880" y="813" type="line"/>
+      <point x="740" y="813" type="line"/>
+      <point x="681" y="707" type="line"/>
+      <point x="740" y="600" type="line"/>
+      <point x="880" y="600" type="line"/>
+      <point x="880" y="275" type="line"/>
+      <point x="378" y="275" type="line"/>
+      <point x="378" y="1398" type="line"/>
+      <point x="103" y="1398" type="line"/>
+      <point x="103" y="275" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 03:57:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

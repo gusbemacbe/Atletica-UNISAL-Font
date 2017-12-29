@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="1218"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="894" y="0" type="line"/>
+      <point x="1118" y="224" type="line"/>
+      <point x="1118" y="1176" type="line"/>
+      <point x="894" y="1400" type="line"/>
+      <point x="138" y="1400" type="line"/>
+      <point x="138" y="1120" type="line"/>
+      <point x="278" y="1120" type="line"/>
+      <point x="278" y="280" type="line"/>
+      <point x="138" y="280" type="line"/>
+      <point x="138" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="558" y="1120" type="line"/>
+      <point x="838" y="1120" type="line"/>
+      <point x="838" y="280" type="line"/>
+      <point x="558" y="280" type="line"/>
+    </contour>
+    <component base="uni0335" xScale="0.467" xOffset="250" yOffset="129"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 00:32:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

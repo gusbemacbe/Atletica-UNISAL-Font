@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e_t.liga" format="1">
+  <advance width="2107"/>
+  <outline>
+    <contour>
+      <point x="100" y="1400" type="line"/>
+      <point x="2007" y="1400" type="line"/>
+      <point x="2007" y="980" type="line"/>
+      <point x="1727" y="980" type="line"/>
+      <point x="1727" y="1120" type="line"/>
+      <point x="1587" y="1120" type="line"/>
+      <point x="1587" y="280" type="line"/>
+      <point x="1727" y="280" type="line"/>
+      <point x="1727" y="0" type="line"/>
+      <point x="1167" y="0" type="line"/>
+      <point x="1167" y="280" type="line"/>
+      <point x="1307" y="280" type="line"/>
+      <point x="1307" y="1120" type="line"/>
+      <point x="520" y="1120" type="line"/>
+      <point x="520" y="840" type="line"/>
+      <point x="800" y="840" type="line"/>
+      <point x="800" y="560" type="line"/>
+      <point x="520" y="560" type="line"/>
+      <point x="520" y="280" type="line"/>
+      <point x="800" y="280" type="line"/>
+      <point x="800" y="420" type="line"/>
+      <point x="1080" y="420" type="line"/>
+      <point x="1080" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="280" type="line"/>
+      <point x="240" y="280" type="line"/>
+      <point x="240" y="1120" type="line"/>
+      <point x="100" y="1120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 01:09:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

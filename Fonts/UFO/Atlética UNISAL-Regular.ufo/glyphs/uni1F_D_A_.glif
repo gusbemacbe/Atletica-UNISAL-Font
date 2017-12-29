@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDA" format="1">
+  <advance width="740"/>
+  <unicode hex="1FDA"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="uni1FEF.case" xOffset="-340"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 09:52:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="694"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="100" y="1479" type="line"/>
+      <point x="593" y="1479" type="line"/>
+      <point x="593" y="986" type="line"/>
+      <point x="100" y="986" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="1351" type="line"/>
+      <point x="229" y="1114" type="line"/>
+      <point x="465" y="1114" type="line"/>
+      <point x="465" y="1351" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 06:22:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="1760"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="454" y="-5" type="line"/>
+      <point x="473" y="-11"/>
+      <point x="275" y="-11"/>
+      <point x="258" y="-5" type="curve"/>
+      <point x="1346" y="1448" type="line"/>
+      <point x="1573" y="1449" type="line"/>
+    </contour>
+    <component base="one.numr"/>
+    <component base="four.dnom" xOffset="1080"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 03:47:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one.numr</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>one.numr</string>
+    </dict>
+  </lib>
+</glyph>

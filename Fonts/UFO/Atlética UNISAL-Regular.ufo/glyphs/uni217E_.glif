@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni217E" format="1">
+  <advance width="1180"/>
+  <unicode hex="217E"/>
+  <outline>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 06:26:58 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>d</string>
+    </dict>
+  </lib>
+</glyph>

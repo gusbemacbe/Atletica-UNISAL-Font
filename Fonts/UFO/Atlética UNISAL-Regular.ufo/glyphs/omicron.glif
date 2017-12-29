@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicron" format="1">
+  <advance width="1040"/>
+  <unicode hex="03BF"/>
+  <outline>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 10:24:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

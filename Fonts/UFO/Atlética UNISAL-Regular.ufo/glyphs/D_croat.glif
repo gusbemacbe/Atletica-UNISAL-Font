@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="1">
+  <advance width="1180"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="856" y="0" type="line"/>
+      <point x="1080" y="224" type="line"/>
+      <point x="1080" y="1176" type="line"/>
+      <point x="856" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="1120" type="line"/>
+      <point x="240" y="1120" type="line"/>
+      <point x="240" y="280" type="line"/>
+      <point x="100" y="280" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="1120" type="line"/>
+      <point x="800" y="1120" type="line"/>
+      <point x="800" y="280" type="line"/>
+      <point x="520" y="280" type="line"/>
+    </contour>
+    <component base="uni0335" xScale="0.577" xOffset="223" yOffset="129"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 00:25:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

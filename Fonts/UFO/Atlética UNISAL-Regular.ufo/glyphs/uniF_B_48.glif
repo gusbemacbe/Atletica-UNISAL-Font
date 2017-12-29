@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB48" format="1">
+  <advance width="1102"/>
+  <unicode hex="FB48"/>
+  <outline>
+    <contour>
+      <point x="999" y="1123" type="line"/>
+      <point x="1002" y="1123" type="line"/>
+      <point x="1002" y="350" type="line"/>
+      <point x="727" y="350" type="line"/>
+      <point x="727" y="1120" type="line"/>
+      <point x="100" y="1120" type="line"/>
+      <point x="100" y="1395" type="line"/>
+      <point x="732" y="1395" type="line"/>
+    </contour>
+    <component base="uni05BC" xOffset="-462" yOffset="95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:57:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03020303" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="uni0302"/>
+    <component base="tildecomb" xOffset="47" yOffset="283"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 00:58:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

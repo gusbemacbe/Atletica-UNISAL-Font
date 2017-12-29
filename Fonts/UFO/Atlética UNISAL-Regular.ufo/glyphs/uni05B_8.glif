@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni05B8" format="1">
+  <advance width="600"/>
+  <unicode hex="05B8"/>
+  <outline>
+    <contour>
+      <point x="708" y="-296" type="line"/>
+      <point x="869" y="-296" type="line"/>
+      <point x="869" y="-420" type="line"/>
+      <point x="1024" y="-420" type="line"/>
+      <point x="1024" y="-296" type="line"/>
+      <point x="1185" y="-296" type="line"/>
+      <point x="1185" y="-120" type="line"/>
+      <point x="708" y="-120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:44:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowupdn" format="1">
+  <advance width="1136"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="459" y="1609" type="line"/>
+      <point x="673" y="1605" type="line"/>
+      <point x="673" y="1604" type="line"/>
+      <point x="674" y="1605" type="line"/>
+      <point x="1034" y="1151" type="line"/>
+      <point x="868" y="1016" type="line"/>
+      <point x="667" y="1270" type="line"/>
+      <point x="669" y="339" type="line"/>
+      <point x="870" y="593" type="line"/>
+      <point x="1036" y="458" type="line"/>
+      <point x="676" y="4" type="line"/>
+      <point x="675" y="5" type="line"/>
+      <point x="675" y="4" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="461" y="7" type="line"/>
+      <point x="102" y="458" type="line"/>
+      <point x="268" y="593" type="line"/>
+      <point x="455" y="339" type="line"/>
+      <point x="453" y="1270" type="line"/>
+      <point x="266" y="1016" type="line"/>
+      <point x="100" y="1151" type="line"/>
+      <point x="459" y="1602" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 05:41:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

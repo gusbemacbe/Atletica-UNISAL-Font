@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="infinity" format="1">
+  <advance width="1336"/>
+  <unicode hex="221E"/>
+  <outline>
+    <contour>
+      <point x="672" y="362" type="line"/>
+      <point x="672" y="848" type="line"/>
+      <point x="580" y="941" type="line"/>
+      <point x="241" y="941" type="line"/>
+      <point x="100" y="802" type="line"/>
+      <point x="100" y="405" type="line"/>
+      <point x="241" y="272" type="line"/>
+      <point x="580" y="272" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="703" type="line"/>
+      <point x="491" y="703" type="line"/>
+      <point x="491" y="505" type="line"/>
+      <point x="312" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="363" type="line"/>
+      <point x="756" y="273" type="line"/>
+      <point x="1095" y="273" type="line"/>
+      <point x="1236" y="406" type="line"/>
+      <point x="1236" y="803" type="line"/>
+      <point x="1095" y="942" type="line"/>
+      <point x="756" y="942" type="line"/>
+      <point x="663" y="849" type="line"/>
+    </contour>
+    <contour>
+      <point x="1023" y="705" type="line"/>
+      <point x="1023" y="507" type="line"/>
+      <point x="844" y="507" type="line"/>
+      <point x="844" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 05:13:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

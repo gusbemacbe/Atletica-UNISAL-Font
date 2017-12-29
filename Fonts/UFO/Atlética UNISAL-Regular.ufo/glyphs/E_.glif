@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="1180"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="1080" y="0" type="line"/>
+      <point x="1080" y="420" type="line"/>
+      <point x="800" y="420" type="line"/>
+      <point x="800" y="280" type="line"/>
+      <point x="520" y="280" type="line"/>
+      <point x="520" y="560" type="line"/>
+      <point x="800" y="560" type="line"/>
+      <point x="800" y="840" type="line"/>
+      <point x="520" y="840" type="line"/>
+      <point x="520" y="1120" type="line"/>
+      <point x="800" y="1120" type="line"/>
+      <point x="800" y="980" type="line"/>
+      <point x="1080" y="980" type="line"/>
+      <point x="1080" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="1120" type="line"/>
+      <point x="240" y="1120" type="line"/>
+      <point x="240" y="280" type="line"/>
+      <point x="100" y="280" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-12 20:07:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

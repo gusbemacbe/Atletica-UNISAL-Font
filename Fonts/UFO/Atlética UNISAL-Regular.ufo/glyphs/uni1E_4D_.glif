@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E4D" format="1">
+  <advance width="1040"/>
+  <unicode hex="1E4D"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="-117"/>
+    <component base="acutecomb" xOffset="-152" yOffset="334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 01:44:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

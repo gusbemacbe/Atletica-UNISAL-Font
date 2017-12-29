@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute_j.loclNLD" format="1">
+  <advance width="1279"/>
+  <outline>
+    <contour>
+      <point x="476" y="756" type="line"/>
+      <point x="564" y="756" type="line"/>
+      <point x="564" y="470" type="line"/>
+      <point x="100" y="470" type="line"/>
+      <point x="100" y="756" type="line"/>
+      <point x="201" y="756" type="line"/>
+      <point x="201" y="1118" type="line"/>
+      <point x="100" y="1118" type="line"/>
+      <point x="100" y="1404" type="line"/>
+      <point x="564" y="1404" type="line"/>
+      <point x="564" y="1118" type="line"/>
+      <point x="476" y="1118" type="line"/>
+    </contour>
+    <contour>
+      <point x="199" y="420" type="line"/>
+      <point x="479" y="420" type="line"/>
+      <point x="479" y="280" type="line"/>
+      <point x="759" y="280" type="line"/>
+      <point x="759" y="1120" type="line"/>
+      <point x="619" y="1120" type="line"/>
+      <point x="619" y="1400" type="line"/>
+      <point x="1179" y="1400" type="line"/>
+      <point x="1179" y="1120" type="line"/>
+      <point x="1039" y="1120" type="line"/>
+      <point x="1039" y="224" type="line"/>
+      <point x="815" y="0" type="line"/>
+      <point x="423" y="0" type="line"/>
+      <point x="199" y="224" type="line"/>
+    </contour>
+    <component base="acutecomb" xOffset="-274"/>
+    <component base="acutecomb" xOffset="263"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 01:04:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

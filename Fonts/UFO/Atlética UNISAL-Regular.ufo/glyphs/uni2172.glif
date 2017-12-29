@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2172" format="1">
+  <advance width="1820"/>
+  <unicode hex="2172"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="1720" y="0" type="line"/>
+      <point x="1720" y="280" type="line"/>
+      <point x="1600" y="280" type="line"/>
+      <point x="1600" y="1120" type="line"/>
+      <point x="1720" y="1120" type="line"/>
+      <point x="1720" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="1120" type="line"/>
+      <point x="240" y="1120" type="line"/>
+      <point x="240" y="280" type="line"/>
+      <point x="100" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="280" type="line"/>
+      <point x="520" y="1120" type="line"/>
+      <point x="780" y="1120" type="line"/>
+      <point x="780" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="1060" y="280" type="line"/>
+      <point x="1060" y="1120" type="line"/>
+      <point x="1320" y="1120" type="line"/>
+      <point x="1320" y="280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 06:33:10 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

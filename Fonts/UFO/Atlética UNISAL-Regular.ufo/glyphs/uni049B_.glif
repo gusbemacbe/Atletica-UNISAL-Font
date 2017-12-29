@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni049B" format="1">
+  <advance width="1592"/>
+  <unicode hex="049B"/>
+  <outline>
+    <contour>
+      <point x="1217" y="280" type="line"/>
+      <point x="1217" y="-233" type="line"/>
+      <point x="1355" y="-233" type="line"/>
+      <point x="1492" y="0" type="line"/>
+      <point x="1492" y="280" type="line"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 09:58:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

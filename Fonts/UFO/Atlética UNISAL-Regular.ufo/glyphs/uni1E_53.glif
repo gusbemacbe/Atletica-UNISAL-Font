@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E53" format="1">
+  <advance width="1040"/>
+  <unicode hex="1E53"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni0304" xOffset="-134"/>
+    <component base="acutecomb" xOffset="-112" yOffset="253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 01:42:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

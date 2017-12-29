@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphatonos" format="1">
+  <advance width="1473"/>
+  <unicode hex="0386"/>
+  <outline>
+    <contour>
+      <point x="375" y="1401" type="line"/>
+      <point x="375" y="888" type="line"/>
+      <point x="237" y="888" type="line"/>
+      <point x="100" y="1121" type="line"/>
+      <point x="100" y="1401" type="line"/>
+    </contour>
+    <component base="Alpha" xOffset="153"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 11:05:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

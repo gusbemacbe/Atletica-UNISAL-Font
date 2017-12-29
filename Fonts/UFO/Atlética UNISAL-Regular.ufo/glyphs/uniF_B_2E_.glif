@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB2E" format="1">
+  <advance width="1325"/>
+  <unicode hex="FB2E"/>
+  <outline>
+    <component base="uni05D0"/>
+    <component base="uni05B7" xOffset="-254"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:51:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F38" format="1">
+  <advance width="941"/>
+  <unicode hex="1F38"/>
+  <outline>
+    <contour>
+      <point x="157" y="1123" type="line"/>
+      <point x="266" y="1123" type="line"/>
+      <point x="266" y="1331" type="line"/>
+      <point x="175" y="1407" type="line"/>
+      <point x="60" y="1407" type="line"/>
+      <point x="60" y="1281" type="line"/>
+      <point x="156" y="1281" type="line"/>
+    </contour>
+    <component base="Iota" xOffset="241"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 09:51:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

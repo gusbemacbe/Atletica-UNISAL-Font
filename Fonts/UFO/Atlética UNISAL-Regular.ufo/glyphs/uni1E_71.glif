@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E71" format="1">
+  <advance width="1320"/>
+  <unicode hex="1E71"/>
+  <outline>
+    <component base="T"/>
+    <component base="caron" yScale="-1" xOffset="156" yOffset="1350"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 01:51:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

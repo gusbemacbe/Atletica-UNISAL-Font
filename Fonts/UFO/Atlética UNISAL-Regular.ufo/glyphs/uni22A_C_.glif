@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni22AC" format="1">
+  <advance width="600"/>
+  <unicode hex="22AC"/>
+  <outline>
+    <component base="righttack"/>
+    <component base="uni0338"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 08:45:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

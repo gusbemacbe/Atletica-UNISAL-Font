@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDE.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-339" y="1121" type="line"/>
+      <point x="-338" y="1279" type="line"/>
+      <point x="-242" y="1279" type="line"/>
+      <point x="-242" y="1405" type="line"/>
+      <point x="-357" y="1405" type="line"/>
+      <point x="-448" y="1329" type="line"/>
+      <point x="-448" y="1121" type="line"/>
+    </contour>
+    <contour>
+      <point x="-246" y="1121" type="line"/>
+      <point x="-21" y="1403" type="line"/>
+      <point x="69" y="1305" type="line"/>
+      <point x="-118" y="1121" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 09:43:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

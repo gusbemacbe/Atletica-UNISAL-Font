@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psi" format="1">
+  <advance width="2280"/>
+  <unicode hex="03A8"/>
+  <outline>
+    <contour>
+      <point x="1018" y="1136" type="line"/>
+      <point x="822" y="1136" type="line"/>
+      <point x="822" y="1402" type="line"/>
+      <point x="1457" y="1402" type="line"/>
+      <point x="1457" y="1136" type="line"/>
+      <point x="1298" y="1136" type="line"/>
+      <point x="1298" y="773" type="line"/>
+      <point x="1758" y="773" type="line"/>
+      <point x="1758" y="1139" type="line"/>
+      <point x="1545" y="1139" type="line"/>
+      <point x="1545" y="1405" type="line"/>
+      <point x="2180" y="1405" type="line"/>
+      <point x="2180" y="1139" type="line"/>
+      <point x="2038" y="1139" type="line"/>
+      <point x="2038" y="717" type="line"/>
+      <point x="1814" y="493" type="line"/>
+      <point x="1298" y="493" type="line"/>
+      <point x="1298" y="266" type="line"/>
+      <point x="1457" y="266" type="line"/>
+      <point x="1457" y="0" type="line"/>
+      <point x="822" y="0" type="line"/>
+      <point x="822" y="266" type="line"/>
+      <point x="1018" y="266" type="line"/>
+      <point x="1018" y="267" type="line"/>
+      <point x="1018" y="490" type="line"/>
+      <point x="502" y="490" type="line"/>
+      <point x="278" y="714" type="line"/>
+      <point x="278" y="1136" type="line"/>
+      <point x="100" y="1136" type="line"/>
+      <point x="100" y="1402" type="line"/>
+      <point x="735" y="1402" type="line"/>
+      <point x="735" y="1136" type="line"/>
+      <point x="558" y="1136" type="line"/>
+      <point x="558" y="770" type="line"/>
+      <point x="1018" y="770" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 10:48:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

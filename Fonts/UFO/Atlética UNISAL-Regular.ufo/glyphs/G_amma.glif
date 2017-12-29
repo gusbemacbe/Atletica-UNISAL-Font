@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gamma" format="1">
+  <advance width="1309"/>
+  <unicode hex="0393"/>
+  <outline>
+    <component base="uni0413"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 07:45:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

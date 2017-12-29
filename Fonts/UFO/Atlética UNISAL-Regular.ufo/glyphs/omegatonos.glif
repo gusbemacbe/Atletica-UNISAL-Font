@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegatonos" format="1">
+  <advance width="1833"/>
+  <unicode hex="03CE"/>
+  <outline>
+    <contour>
+      <point x="375" y="1408" type="line"/>
+      <point x="375" y="895" type="line"/>
+      <point x="237" y="895" type="line"/>
+      <point x="100" y="1128" type="line"/>
+      <point x="100" y="1408" type="line"/>
+    </contour>
+    <component base="omega" xOffset="377"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 11:10:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

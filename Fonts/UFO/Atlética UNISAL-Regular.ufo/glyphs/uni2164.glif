@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2164" format="1">
+  <advance width="1320"/>
+  <unicode hex="2164"/>
+  <outline>
+    <component base="V"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 06:27:31 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>V</string>
+    </dict>
+  </lib>
+</glyph>

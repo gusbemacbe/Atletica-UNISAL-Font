@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="789"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="236" y="315" type="line"/>
+      <point x="100" y="464" type="line"/>
+      <point x="100" y="713" type="line"/>
+      <point x="236" y="864" type="line"/>
+      <point x="552" y="864" type="line"/>
+      <point x="689" y="713" type="line"/>
+      <point x="689" y="474" type="line"/>
+      <point x="552" y="315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 04:02:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

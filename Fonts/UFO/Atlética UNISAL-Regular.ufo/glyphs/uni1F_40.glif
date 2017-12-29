@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F40" format="1">
+  <advance width="1241"/>
+  <unicode hex="1F40"/>
+  <outline>
+    <contour>
+      <point x="157" y="1174" type="line"/>
+      <point x="266" y="1174" type="line"/>
+      <point x="266" y="1382" type="line"/>
+      <point x="175" y="1458" type="line"/>
+      <point x="60" y="1458" type="line"/>
+      <point x="60" y="1332" type="line"/>
+      <point x="156" y="1332" type="line"/>
+    </contour>
+    <component base="Omicron" xOffset="241"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:22:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

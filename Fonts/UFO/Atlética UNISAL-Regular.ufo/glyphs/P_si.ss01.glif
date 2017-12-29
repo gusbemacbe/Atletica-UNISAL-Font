@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psi.ss01" format="1">
+  <advance width="1900"/>
+  <outline>
+    <contour>
+      <point x="808" y="1136" type="line"/>
+      <point x="808" y="1402" type="line"/>
+      <point x="1088" y="1402" type="line"/>
+      <point x="1088" y="1136" type="line"/>
+      <point x="1088" y="773" type="line"/>
+      <point x="1378" y="773" type="line"/>
+      <point x="1378" y="1139" type="line"/>
+      <point x="1165" y="1139" type="line"/>
+      <point x="1165" y="1405" type="line"/>
+      <point x="1800" y="1405" type="line"/>
+      <point x="1800" y="1139" type="line"/>
+      <point x="1658" y="1139" type="line"/>
+      <point x="1658" y="717" type="line"/>
+      <point x="1434" y="493" type="line"/>
+      <point x="1088" y="493" type="line"/>
+      <point x="1088" y="266" type="line"/>
+      <point x="1247" y="266" type="line"/>
+      <point x="1247" y="0" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="612" y="266" type="line"/>
+      <point x="808" y="266" type="line"/>
+      <point x="808" y="267" type="line"/>
+      <point x="808" y="490" type="line"/>
+      <point x="502" y="490" type="line"/>
+      <point x="278" y="714" type="line"/>
+      <point x="278" y="1136" type="line"/>
+      <point x="100" y="1136" type="line"/>
+      <point x="100" y="1402" type="line"/>
+      <point x="735" y="1402" type="line"/>
+      <point x="735" y="1136" type="line"/>
+      <point x="558" y="1136" type="line"/>
+      <point x="558" y="770" type="line"/>
+      <point x="808" y="770" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 10:50:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

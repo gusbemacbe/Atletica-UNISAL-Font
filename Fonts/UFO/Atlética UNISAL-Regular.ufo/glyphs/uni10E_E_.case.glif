@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni10EE.case" format="1">
+  <advance width="1177"/>
+  <outline>
+    <contour>
+      <point x="375" y="719" type="line"/>
+      <point x="375" y="275" type="line"/>
+      <point x="802" y="275" type="line"/>
+      <point x="802" y="719" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="994" type="line"/>
+      <point x="795" y="994" type="line"/>
+      <point x="1075" y="721" type="line"/>
+      <point x="1077" y="721" type="line"/>
+      <point x="1077" y="462" type="line"/>
+      <point x="1077" y="272" type="line"/>
+      <point x="1074" y="272" type="line"/>
+      <point x="802" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="372" y="3" type="line"/>
+      <point x="100" y="275" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="375" y="1400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 03:59:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

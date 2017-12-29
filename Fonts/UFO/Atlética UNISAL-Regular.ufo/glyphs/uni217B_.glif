@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni217B" format="1">
+  <advance width="2399"/>
+  <unicode hex="217B"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="640" y="280" type="line"/>
+      <point x="520" y="280" type="line"/>
+      <point x="660" y="490" type="line"/>
+      <point x="800" y="280" type="line"/>
+      <point x="680" y="280" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="2299" y="0" type="line"/>
+      <point x="2299" y="280" type="line"/>
+      <point x="2179" y="280" type="line"/>
+      <point x="2179" y="1120" type="line"/>
+      <point x="2299" y="1120" type="line"/>
+      <point x="2299" y="1400" type="line"/>
+      <point x="680" y="1400" type="line"/>
+      <point x="680" y="1120" type="line"/>
+      <point x="800" y="1120" type="line"/>
+      <point x="660" y="910" type="line"/>
+      <point x="520" y="1120" type="line"/>
+      <point x="640" y="1120" type="line"/>
+      <point x="640" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="1120" type="line"/>
+      <point x="240" y="1120" type="line"/>
+      <point x="520" y="700" type="line"/>
+      <point x="240" y="280" type="line"/>
+      <point x="100" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="800" y="700" type="line"/>
+      <point x="1080" y="1120" type="line"/>
+      <point x="1360" y="1120" type="line"/>
+      <point x="1360" y="280" type="line"/>
+      <point x="1080" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="1639" y="280" type="line"/>
+      <point x="1639" y="1120" type="line"/>
+      <point x="1899" y="1120" type="line"/>
+      <point x="1899" y="280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:41:58 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

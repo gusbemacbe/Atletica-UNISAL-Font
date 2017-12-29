@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="1320"/>
+  <unicode hex="0167"/>
+  <outline>
+    <component base="t"/>
+    <component base="uni0335" xOffset="401" yOffset="113"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 00:02:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

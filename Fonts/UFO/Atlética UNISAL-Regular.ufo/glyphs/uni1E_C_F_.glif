@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ECF" format="1">
+  <advance width="1040"/>
+  <unicode hex="1ECF"/>
+  <outline>
+    <component base="o"/>
+    <component base="hookabovecomb" xOffset="108" yOffset="266"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 01:14:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

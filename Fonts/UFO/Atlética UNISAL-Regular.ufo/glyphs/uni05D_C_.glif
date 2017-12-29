@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni05DC" format="1">
+  <advance width="1014"/>
+  <unicode hex="05DC"/>
+  <outline>
+    <contour>
+      <point x="914" y="733" type="line"/>
+      <point x="686" y="393" type="line"/>
+      <point x="686" y="0" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="412" y="395" type="line"/>
+      <point x="618" y="733" type="line"/>
+      <point x="100" y="733" type="line"/>
+      <point x="100" y="1005" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="375" y="1400" type="line"/>
+      <point x="375" y="1008" type="line"/>
+      <point x="914" y="1008" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 04:28:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.osf" format="1">
+  <advance width="960"/>
+  <outline>
+    <contour>
+      <point x="60" y="24" type="line"/>
+      <point x="284" y="-200" type="line"/>
+      <point x="676" y="-200" type="line"/>
+      <point x="900" y="24" type="line"/>
+      <point x="900" y="1066" type="line"/>
+      <point x="676" y="1290" type="line"/>
+      <point x="284" y="1290" type="line"/>
+      <point x="60" y="1066" type="line"/>
+      <point x="60" y="674" type="line"/>
+      <point x="284" y="450" type="line"/>
+      <point x="620" y="450" type="line"/>
+      <point x="620" y="80" type="line"/>
+      <point x="340" y="80" type="line"/>
+      <point x="340" y="220" type="line"/>
+      <point x="60" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="620" y="730" type="line"/>
+      <point x="320" y="730" type="line"/>
+      <point x="320" y="1010" type="line"/>
+      <point x="620" y="1010" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 03:08:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

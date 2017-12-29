@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2169" format="1">
+  <advance width="1320"/>
+  <unicode hex="2169"/>
+  <outline>
+    <component base="X"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-14 06:27:42 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>X</string>
+    </dict>
+  </lib>
+</glyph>

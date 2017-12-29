@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="1186"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="1086" y="562" type="line"/>
+      <point x="1086" y="561" type="line"/>
+      <point x="669" y="201" type="line"/>
+      <point x="545" y="367" type="line"/>
+      <point x="844" y="625" type="line"/>
+      <point x="845" y="709" type="line"/>
+      <point x="545" y="969" type="line"/>
+      <point x="669" y="1135" type="line"/>
+      <point x="1086" y="774" type="line"/>
+      <point x="1086" y="774" type="line"/>
+      <point x="1086" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="640" y="566" type="line"/>
+      <point x="641" y="565" type="line"/>
+      <point x="224" y="205" type="line"/>
+      <point x="100" y="371" type="line"/>
+      <point x="398" y="629" type="line"/>
+      <point x="400" y="713" type="line"/>
+      <point x="100" y="973" type="line"/>
+      <point x="224" y="1139" type="line"/>
+      <point x="641" y="778" type="line"/>
+      <point x="641" y="778" type="line"/>
+      <point x="641" y="566" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 04:32:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

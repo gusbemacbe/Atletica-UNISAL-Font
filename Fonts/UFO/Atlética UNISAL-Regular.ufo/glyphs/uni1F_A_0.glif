@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FA0" format="1">
+  <advance width="1640"/>
+  <unicode hex="1FA0"/>
+  <outline>
+    <contour>
+      <point x="157" y="967" type="line"/>
+      <point x="266" y="967" type="line"/>
+      <point x="266" y="1175" type="line"/>
+      <point x="175" y="1251" type="line"/>
+      <point x="60" y="1251" type="line"/>
+      <point x="60" y="1125" type="line"/>
+      <point x="156" y="1125" type="line"/>
+    </contour>
+    <component base="omega" xOffset="224"/>
+    <component base="uni037A" xOffset="1680"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 10:28:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

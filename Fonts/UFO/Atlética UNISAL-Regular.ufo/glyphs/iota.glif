@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="1">
+  <advance width="740"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <component base="I"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 10:21:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

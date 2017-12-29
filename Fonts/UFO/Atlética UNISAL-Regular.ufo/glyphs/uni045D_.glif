@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni045D" format="1">
+  <advance width="1460"/>
+  <unicode hex="045D"/>
+  <outline>
+    <component base="uni0438"/>
+    <component base="gravecomb" xOffset="49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-29 09:17:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>
