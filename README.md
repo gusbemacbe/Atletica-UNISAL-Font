@@ -4,7 +4,7 @@
 
 #### Why derived of Matthew Welch?
 
-Matthew Welch's original font, «College» doesn't have pan-European and other nn-European glyphs, it only supports English and other accentless languages languages.
+Matthew Welch's original font, «College» doesn't have pan-European and other non-European glyphs, it only supports English and other accentless languages languages.
 
 As it is licenced under MIT according to his site, so I can add and modify this font for supporting many lanuages as we can.
 
@@ -24,7 +24,7 @@ This font is still beta and see the plans in the end.
 * Vietnamese
 * Basic Maths
 
-* It also added Azeri, Catalan, Dutch, Esperanto, Romnian and Turkish.
+* It also added Azeri, Catalan, Dutch, Esperanto, Romanian and Turkish.
 
 ## Preview
 
@@ -37,5 +37,5 @@ This font is still beta and see the plans in the end.
 - [ ] Armenian
 - [ ] Farsi
 - [ ] Japanese
-- [ ] Chinese
+- [ ] Mandarin
 - [ ] Mingrelian and Svan glyphs
